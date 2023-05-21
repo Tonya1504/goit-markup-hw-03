@@ -36,8 +36,6 @@ img {
 }
 
 .page-header {
-  margin-top: 25.5px;
-  padding-bottom: 25.5px;
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -182,8 +180,6 @@ img {
 
 .container-info {
   display: flex;
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 
 .list-info {
@@ -214,11 +210,6 @@ img {
 /*our-work-container*/
 
 .our-work {
-  padding-bottom: 120px;
-}
-
-.our-work-container {
-  padding-top: 120px;
   padding-bottom: 120px;
 }
 
@@ -263,7 +254,6 @@ img {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--title-our-work-color);
-  margin-top: 120px;
   margin-bottom: 72px;
 }
 
@@ -277,7 +267,6 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding-top: 32px;
   text-align: center;
   margin-bottom: 8px;
 }
@@ -338,10 +327,6 @@ img {
   color: #4d5ae5;
   display: inline-block;
   margin-bottom: 16px;
-}
-
-.navigation {
-  padding: 96px 0 120px;
 }
 
 .btn-navigation {
