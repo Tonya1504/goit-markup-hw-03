@@ -178,6 +178,9 @@ img {
   padding: 120px 0;
 }
 
+.title-info {
+  visibility: hidden;
+}
 .container-info {
   display: flex;
 }
